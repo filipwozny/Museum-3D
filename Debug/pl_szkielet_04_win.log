@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (pl_szkielet_04_win.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main_file.cpp
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Floor.h(489,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Floor.h(1465,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Wall.h(39,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigerbot.h(2211,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigerbot.h(4421,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigerbot.h(6631,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigermid.h(19308,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigermid.h(38615,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigermid.h(57922,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigertop.h(4818,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigertop.h(9635,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Tigertop.h(14452,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Eiffel.h(49473,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Eiffel.h(98945,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Eiffel.h(148417,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Pisa.h(90921,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Pisa.h(181841,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Pisa.h(272761,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(49,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(136,43): warning C4305: "=": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(137,36): warning C4305: "=": obcięcie z "double" do "float"
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(176,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(177,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(181,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(182,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(184,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(185,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\main_file.cpp(365,39): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  pl_szkielet_04_win.vcxproj -> D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Debug\projekt.exe

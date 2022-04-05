@@ -1,0 +1,7 @@
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Lab\lab 5\pl_szkielet_04_win\Debug\pl_szkielet_04_win.exe
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Lab\lab 5\pl_szkielet_04_win\Debug\pl_szkielet_04_win.pdb
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Nowy folder\pl_szkielet_04_win\Debug\projekt.exe
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Nowy folder\pl_szkielet_04_win\Debug\projekt.pdb
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Nowy folder\projekt\Debug\projekt.exe
+C:\Users\filip\OneDrive\Pulpit\Studia\semestr_4\Grafika\Nowy folder\projekt\Debug\projekt.pdb
+D:\Nowy folder (3)\semestr_4\Grafika\Nowy folder\projekt\Debug\projekt.exe
